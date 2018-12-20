@@ -1,0 +1,9 @@
+main:
+  email:
+    username: "xxx@163.com"
+    password: "xxx"
+    email_to: ["xxx@qq.com"]
+
+  remind_time:
+    morning: "9:30"
+    evening: "20:00"
